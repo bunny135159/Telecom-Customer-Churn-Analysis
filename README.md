@@ -25,6 +25,7 @@ Files included:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/MithunChevakula/Telecom-Customer-Churn-Analysis.git
+git clone https://github.com/bunny135159/Telecom-Customer-Churn-Analysis.git
 cd Telecom-Customer-Churn-Analysis
 pip install -r requirements.txt
+
